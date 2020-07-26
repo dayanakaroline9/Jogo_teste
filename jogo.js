@@ -63,9 +63,9 @@ var func1 = "Desenvolvedora";
 var nome2 = " Denisia Lima";
 var curso2 = "Formação: Pedagogia Licenciatura Plena";
 var func2 = "Pedagoga";
-var imgX1 = 150,
-  imgX2 = 350,
-  imgY1 = 150;
+var imgX1 = 200,
+  imgX2 = 400,
+  imgY1 = 100;
 var largura4 = 100,
   largura5 = 140;
 
